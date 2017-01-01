@@ -18,7 +18,7 @@ namespace SimpleAttribute
         [Obsolete("Don't use old method",true)]
         static void Function1()
         {
-            MyClass.Message("In main function1");
+            MyClass.Message("In main function123456");
         }
     }
 
