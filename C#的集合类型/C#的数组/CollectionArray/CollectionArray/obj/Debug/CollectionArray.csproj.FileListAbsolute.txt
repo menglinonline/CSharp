@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\CollectionArray\CollectionArray\bin\Debug\CollectionArray.exe.config
+C:\Users\David\Desktop\CollectionArray\CollectionArray\bin\Debug\CollectionArray.exe
+C:\Users\David\Desktop\CollectionArray\CollectionArray\bin\Debug\CollectionArray.pdb
+C:\Users\David\Desktop\CollectionArray\CollectionArray\obj\Debug\CollectionArray.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CollectionArray\CollectionArray\obj\Debug\CollectionArray.exe
+C:\Users\David\Desktop\CollectionArray\CollectionArray\obj\Debug\CollectionArray.pdb
+H:\NET\C#\C#的集合类型\C#的数组\CollectionArray\CollectionArray\bin\Debug\CollectionArray.exe.config
+H:\NET\C#\C#的集合类型\C#的数组\CollectionArray\CollectionArray\obj\Debug\CollectionArray.exe
+H:\NET\C#\C#的集合类型\C#的数组\CollectionArray\CollectionArray\obj\Debug\CollectionArray.pdb

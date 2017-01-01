@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2768E3AF-D275-47E4-971F-D464AEEB93C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompareTools</RootNamespace>
+    <AssemblyName>CompareTools</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NPOI">
+      <HintPath>..\ReferenceLib\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>..\ReferenceLib\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>..\ReferenceLib\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>..\ReferenceLib\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\DataGet.cs" />
+    <Compile Include="FrmAddTrader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddTrader.Designer.cs">
+      <DependentUpon>FrmAddTrader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRDXYK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRDXYK.Designer.cs">
+      <DependentUpon>FrmRDXYK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRRJSXF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRRJSXF.Designer.cs">
+      <DependentUpon>FrmRRJSXF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDemoFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDemoFile.Designer.cs">
+      <DependentUpon>FrmDemoFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTLDZK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTLDZK.Designer.cs">
+      <DependentUpon>FrmTLDZK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRD.Designer.cs">
+      <DependentUpon>FrmRD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTLXYK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTLXYK.Designer.cs">
+      <DependentUpon>FrmTLXYK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Business\Utility.cs" />
+    <EmbeddedResource Include="FrmAddTrader.resx">
+      <DependentUpon>FrmAddTrader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRDXYK.resx">
+      <DependentUpon>FrmRDXYK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRRJSXF.resx">
+      <DependentUpon>FrmRRJSXF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDemoFile.resx">
+      <DependentUpon>FrmDemoFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTLDZK.resx">
+      <DependentUpon>FrmTLDZK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRD.resx">
+      <DependentUpon>FrmRD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTLXYK.resx">
+      <DependentUpon>FrmTLXYK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReferenceLib\NPOI.dll" />
+    <Content Include="ReferenceLib\NPOI.OOXML.dll" />
+    <Content Include="ReferenceLib\NPOI.OpenXml4Net.dll" />
+    <Content Include="ReferenceLib\NPOI.OpenXmlFormats.dll" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{2c9f46fd-bf7d-41a2-8d28-159ca32cdba6}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SingleCheck\SingleCheck\SingleCheck.csproj">
+      <Project>{d5098b5c-92ea-4839-81b7-6b57bbc0352a}</Project>
+      <Name>SingleCheck</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SingleConvert\SingleConvert\SingleConvert.csproj">
+      <Project>{a2fa489d-ec62-4ff9-9406-1161bb002303}</Project>
+      <Name>SingleConvert</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

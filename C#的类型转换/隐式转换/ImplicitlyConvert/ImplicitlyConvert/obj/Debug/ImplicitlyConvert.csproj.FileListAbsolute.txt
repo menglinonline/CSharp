@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\bin\Debug\ImplicitlyConvert.exe.config
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\bin\Debug\ImplicitlyConvert.exe
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\bin\Debug\ImplicitlyConvert.pdb
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\obj\Debug\ImplicitlyConvert.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\obj\Debug\ImplicitlyConvert.exe
+C:\Users\David\Desktop\ImplicitlyConvert\ImplicitlyConvert\obj\Debug\ImplicitlyConvert.pdb

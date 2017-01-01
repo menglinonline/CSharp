@@ -1,0 +1,5 @@
+I:\NET\C#\C#的事件与委托\初识委托\KnowDelegate\KnowDelegate\bin\Debug\KnowDelegate.exe.config
+I:\NET\C#\C#的事件与委托\初识委托\KnowDelegate\KnowDelegate\bin\Debug\KnowDelegate.exe
+I:\NET\C#\C#的事件与委托\初识委托\KnowDelegate\KnowDelegate\bin\Debug\KnowDelegate.pdb
+I:\NET\C#\C#的事件与委托\初识委托\KnowDelegate\KnowDelegate\obj\Debug\KnowDelegate.exe
+I:\NET\C#\C#的事件与委托\初识委托\KnowDelegate\KnowDelegate\obj\Debug\KnowDelegate.pdb

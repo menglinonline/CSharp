@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\bin\CreateQRCodeDemo.dll.config
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\bin\CreateQRCodeDemo.dll
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\bin\CreateQRCodeDemo.pdb
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\bin\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\obj\Debug\CreateQRCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\obj\Debug\CreateQRCodeDemo.dll
+C:\Users\Administrator\Desktop\CreateQRCodeDemo\CreateQRCodeDemo\obj\Debug\CreateQRCodeDemo.pdb

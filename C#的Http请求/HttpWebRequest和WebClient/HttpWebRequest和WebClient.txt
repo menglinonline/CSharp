@@ -1,0 +1,90 @@
+WebClient POST
+ /// <summary>
+/// 根据用户输入的用户名和密码调用蓉记的API检查是不是蓉记的用户
+/// </summary>
+/// <param name="userName">用户输入的用户名</param>
+/// <param name="password">用户输入的密码</param>
+/// <returns>ture/false</returns>
+private static bool CheckIsValidRongJiUser(string userName, string password)
+{
+    bool isValid = false;
+    string urlArgs = "action=BindUser&openId=1111&userName=" + userName + "&password=" + password;
+    byte[] postData = Encoding.UTF8.GetBytes(urlArgs);//编码，事先要看下抓取网页的编码方式(网页的编码方式是UTF8)
+    WebClient webClient = new WebClient();
+    webClient.Headers.Add("Accept", "*/*");
+    webClient.Headers.Add("Content-Type", "application/x-www-form-urlencoded");
+    webClient.Encoding = Encoding.UTF8;
+    byte[] responseData = webClient.UploadData("http://www.rongji365.com/API/VshopProcess.ashx", "POST", postData);
+    string returnStr = Encoding.UTF8.GetString(responseData);//UTF8解码 
+
+    if (returnStr == "{\"Status\":\"OK\"}")
+    {
+	isValid = true;
+    }
+
+    return isValid;
+}
+
+WebClient GET
+public static string GetBody(string Url, Encoding Encoder)
+{
+            string resultBody = "";
+            WebClient myClient = new WebClient();
+            myClient.Headers.Add("Accept: */*");
+            myClient.Headers.Add("User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET4.0E; .NET4.0C; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; SE 2.X MetaSr 1.0)");
+            myClient.Headers.Add("Accept-Language: zh-cn");
+            myClient.Headers.Add("Content-Type: multipart/form-data");
+            //myClient.Headers.Add("Accept-Encoding: gzip, deflate");
+            myClient.Headers.Add("Cache-Control: no-cache");
+            myClient.Encoding = Encoder;
+            resultBody = myClient.DownloadString(Url);
+
+            return resultBody;
+}
+
+HttpWebRequest GET
+public static string GetBody(string url, Encoding encode, int timeout = 0)
+{
+      HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create(url);
+      webRequest.Method = "GET";
+      webRequest.Timeout = timeout;
+
+      //接收返回信息
+      HttpWebResponse webResponse = (HttpWebResponse)webRequest.GetResponse();
+      StreamReader streamReader = new StreamReader(webResponse.GetResponseStream(), encode);
+      //webResponse.Close();连接意外被关闭
+      //streamReader.Close();无法从已关闭的 TextReader中读取
+
+      return streamReader.ReadToEnd().Trim();
+}
+
+
+HttpWebRequest
+/// <summary>
+/// HTTP POST方式
+/// </summary>
+/// <param name="weburl">POST到的网址</param>
+/// <param name="data">POST的参数及参数值</param>
+/// <param name="encode">编码方式</param>
+/// <returns></returns>
+public string PushToWeb(string weburl, string data, Encoding encode)
+{
+    byte[] byteArray = encode.GetBytes(data);
+
+    HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create(new Uri(weburl));
+    webRequest.Method = "POST";
+    webRequest.ContentType = "application/x-www-form-urlencoded";
+    webRequest.ContentLength = byteArray.Length;
+    Stream newStream = webRequest.GetRequestStream();
+    newStream.Write(byteArray, 0, byteArray.Length);
+    newStream.Close();
+
+    //接收返回信息：
+    HttpWebResponse webResponse = (HttpWebResponse)webRequest.GetResponse();
+    StreamReader streamReader = new StreamReader(webResponse.GetResponseStream(), encode);
+
+    return streamReader.ReadToEnd();
+}
+
+有些服务器端程序是写的很规范的。因为只要是浏览器访问网页，肯定是会有用户代理的。
+那么百度判断一个请求中缺少这个，就认为是非浏览器请求，所以可能是屏蔽了这个请求，或让你的请求长时间等待。

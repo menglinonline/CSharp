@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\Encapsulation\AnotherAssembly\bin\Debug\AnotherAssembly.dll
+C:\Users\David\Desktop\Encapsulation\AnotherAssembly\bin\Debug\AnotherAssembly.pdb
+C:\Users\David\Desktop\Encapsulation\AnotherAssembly\obj\Debug\AnotherAssembly.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Encapsulation\AnotherAssembly\obj\Debug\AnotherAssembly.dll
+C:\Users\David\Desktop\Encapsulation\AnotherAssembly\obj\Debug\AnotherAssembly.pdb

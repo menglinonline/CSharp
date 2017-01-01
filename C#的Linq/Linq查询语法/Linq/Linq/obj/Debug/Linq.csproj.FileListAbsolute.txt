@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\David\Desktop\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\David\Desktop\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\David\Desktop\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\David\Desktop\Linq\Linq\obj\Debug\Linq.pdb
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\bin\Debug\Linq.exe.config
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\obj\Debug\Linq.exe
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\obj\Debug\Linq.pdb
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\bin\Debug\Linq.exe
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\bin\Debug\Linq.pdb
+I:\NET\C#\C#的Linq\Linq Query Syntax\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache

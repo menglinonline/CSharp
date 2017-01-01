@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.exe.config
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.exe
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.pdb
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.exe
+C:\Users\David\Desktop\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.pdb
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.exe.config
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.exe
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.pdb
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.exe
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\bin\Debug\AnonymousFunction.pdb
+I:\NET\C#\C#的匿名函数\AnonymousFunction\AnonymousFunction\obj\Debug\AnonymousFunction.csprojResolveAssemblyReference.cache

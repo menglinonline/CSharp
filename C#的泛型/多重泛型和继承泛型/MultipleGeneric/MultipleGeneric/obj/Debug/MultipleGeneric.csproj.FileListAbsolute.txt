@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\bin\Debug\MultipleGeneric.exe.config
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\bin\Debug\MultipleGeneric.exe
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\bin\Debug\MultipleGeneric.pdb
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\obj\Debug\MultipleGeneric.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\obj\Debug\MultipleGeneric.exe
+C:\Users\David\Desktop\MultipleGeneric\MultipleGeneric\obj\Debug\MultipleGeneric.pdb
+I:\NET\C#\C#的泛型\多重泛型和继承泛型\MultipleGeneric\MultipleGeneric\bin\Debug\MultipleGeneric.exe.config
+I:\NET\C#\C#的泛型\多重泛型和继承泛型\MultipleGeneric\MultipleGeneric\obj\Debug\MultipleGeneric.exe
+I:\NET\C#\C#的泛型\多重泛型和继承泛型\MultipleGeneric\MultipleGeneric\obj\Debug\MultipleGeneric.pdb

@@ -1,0 +1,13 @@
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\bin\Demo.dll.config
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\bin\Demo.dll
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\bin\Demo.pdb
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\obj\Debug\Demo.dll
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\obj\Debug\Demo.pdb
+D:\OneDrive\日付资料\软件开发\订单支付\请求Demo\Asp.net(C#)\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Demo(asp.net)\bin\Demo.dll.config
+C:\Users\Administrator\Desktop\Demo(asp.net)\bin\Demo.dll
+C:\Users\Administrator\Desktop\Demo(asp.net)\bin\Demo.pdb
+C:\Users\Administrator\Desktop\Demo(asp.net)\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Demo(asp.net)\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Demo(asp.net)\obj\Debug\Demo.dll
+C:\Users\Administrator\Desktop\Demo(asp.net)\obj\Debug\Demo.pdb

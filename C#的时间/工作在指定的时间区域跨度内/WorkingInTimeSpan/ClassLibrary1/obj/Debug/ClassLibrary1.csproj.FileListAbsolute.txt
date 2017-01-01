@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+H:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+H:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+H:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+H:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+I:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+I:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+I:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+I:\NET\C#\C#的时间\工作在指定的时间区域跨度内\WorkingInTimeSpan\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

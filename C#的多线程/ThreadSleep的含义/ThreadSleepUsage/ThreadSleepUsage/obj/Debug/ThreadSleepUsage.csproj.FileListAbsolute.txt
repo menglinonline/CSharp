@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\bin\Debug\ThreadSleepUsage.exe.config
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\bin\Debug\ThreadSleepUsage.exe
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\bin\Debug\ThreadSleepUsage.pdb
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\obj\Debug\ThreadSleepUsage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\obj\Debug\ThreadSleepUsage.exe
+C:\Users\Administrator\Desktop\ThreadSleepUsage\ThreadSleepUsage\obj\Debug\ThreadSleepUsage.pdb
+H:\NET\C#\C#的多线程\ThreadSleep的含义\ThreadSleepUsage\ThreadSleepUsage\bin\Debug\ThreadSleepUsage.exe.config
+H:\NET\C#\C#的多线程\ThreadSleep的含义\ThreadSleepUsage\ThreadSleepUsage\obj\Debug\ThreadSleepUsage.exe
+H:\NET\C#\C#的多线程\ThreadSleep的含义\ThreadSleepUsage\ThreadSleepUsage\obj\Debug\ThreadSleepUsage.pdb

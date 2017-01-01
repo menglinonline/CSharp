@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\bin\Debug\SerializeredToString.exe.config
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\bin\Debug\SerializeredToString.exe
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\bin\Debug\SerializeredToString.pdb
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.exe
+C:\Users\David\Desktop\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.pdb
+I:\NET\C#\C#的序列化\对象序列化为字符串\SerializeredToString\SerializeredToString\bin\Debug\SerializeredToString.exe.config
+I:\NET\C#\C#的序列化\对象序列化为字符串\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.exe
+I:\NET\C#\C#的序列化\对象序列化为字符串\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.pdb
+I:\NET\C#\C#的序列化\对象序列化为Xml和Xml反序列化为对象\SerializeredToString\SerializeredToString\bin\Debug\SerializeredToString.exe.config
+I:\NET\C#\C#的序列化\对象序列化为Xml和Xml反序列化为对象\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.exe
+I:\NET\C#\C#的序列化\对象序列化为Xml和Xml反序列化为对象\SerializeredToString\SerializeredToString\obj\Debug\SerializeredToString.pdb

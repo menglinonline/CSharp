@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\SimpleAttribute\SimpleAttribute\bin\Release\SimpleAttribute.exe
+C:\Users\Administrator\Desktop\SimpleAttribute\SimpleAttribute\bin\Release\SimpleAttribute.pdb
+C:\Users\Administrator\Desktop\SimpleAttribute\SimpleAttribute\obj\Release\SimpleAttribute.exe
+C:\Users\Administrator\Desktop\SimpleAttribute\SimpleAttribute\obj\Release\SimpleAttribute.pdb
+I:\NET\C#\C#的Attribute类\C#中几个简单的内置Attribute\SimpleAttribute\SimpleAttribute\obj\Release\SimpleAttribute.exe
+I:\NET\C#\C#的Attribute类\C#中几个简单的内置Attribute\SimpleAttribute\SimpleAttribute\obj\Release\SimpleAttribute.pdb
+I:\NET\C#\C#的Attribute类\C#中几个简单的内置Attribute\SimpleAttribute\SimpleAttribute\bin\Release\SimpleAttribute.exe
+I:\NET\C#\C#的Attribute类\C#中几个简单的内置Attribute\SimpleAttribute\SimpleAttribute\bin\Release\SimpleAttribute.pdb

@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\David\Desktop\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\David\Desktop\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\David\Desktop\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\David\Desktop\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之继承\继承\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache

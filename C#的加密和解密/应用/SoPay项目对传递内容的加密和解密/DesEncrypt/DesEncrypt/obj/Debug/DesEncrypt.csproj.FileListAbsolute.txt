@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.exe.config
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.exe
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.pdb
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.Form1.resources
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.exe
+C:\Users\Administrator\Desktop\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.pdb
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.exe.config
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.exe
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.pdb
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.Form1.resources
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.Properties.Resources.resources
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\obj\Debug\DesEncrypt.csproj.GenerateResource.Cache
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.exe
+I:\NET\C#\C#的加密和解密\SoPay项目对传递内容的加密和解密\DesEncrypt\DesEncrypt\bin\Debug\DesEncrypt.pdb

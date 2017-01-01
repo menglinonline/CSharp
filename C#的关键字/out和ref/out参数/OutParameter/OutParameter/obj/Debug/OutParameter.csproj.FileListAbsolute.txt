@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\OutParameter\OutParameter\bin\Debug\OutParameter.exe.config
+C:\Users\David\Desktop\OutParameter\OutParameter\bin\Debug\OutParameter.exe
+C:\Users\David\Desktop\OutParameter\OutParameter\bin\Debug\OutParameter.pdb
+C:\Users\David\Desktop\OutParameter\OutParameter\obj\Debug\OutParameter.exe
+C:\Users\David\Desktop\OutParameter\OutParameter\obj\Debug\OutParameter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\bin\Debug\ThreadUsage.exe.config
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\bin\Debug\ThreadUsage.exe
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\bin\Debug\ThreadUsage.pdb
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\obj\Debug\ThreadUsage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\obj\Debug\ThreadUsage.exe
+C:\Users\Administrator\Desktop\ThreadUsage\ThreadUsage\obj\Debug\ThreadUsage.pdb

@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.exe.config
+C:\Users\David\Desktop\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.exe
+C:\Users\David\Desktop\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.pdb
+C:\Users\David\Desktop\ExceptionHandle\ExceptionHandle\obj\Debug\ExceptionHandle.exe
+C:\Users\David\Desktop\ExceptionHandle\ExceptionHandle\obj\Debug\ExceptionHandle.pdb

@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\ExplicitConvert\ExplicitConvert\bin\Debug\ExplicitConvert.exe.config
+C:\Users\David\Desktop\ExplicitConvert\ExplicitConvert\bin\Debug\ExplicitConvert.exe
+C:\Users\David\Desktop\ExplicitConvert\ExplicitConvert\bin\Debug\ExplicitConvert.pdb
+C:\Users\David\Desktop\ExplicitConvert\ExplicitConvert\obj\Debug\ExplicitConvert.exe
+C:\Users\David\Desktop\ExplicitConvert\ExplicitConvert\obj\Debug\ExplicitConvert.pdb

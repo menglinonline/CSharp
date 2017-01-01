@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe.config
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.pdb
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.exe
+C:\Users\David\Desktop\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.pdb

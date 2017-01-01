@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\SendTest\SendTest\bin\Debug\SendTest.exe.config
+C:\Users\Administrator\Desktop\SendTest\SendTest\obj\Debug\SendTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SendTest\SendTest\bin\Debug\SendTest.exe
+C:\Users\Administrator\Desktop\SendTest\SendTest\bin\Debug\SendTest.pdb
+C:\Users\Administrator\Desktop\SendTest\SendTest\obj\Debug\SendTest.exe
+C:\Users\Administrator\Desktop\SendTest\SendTest\obj\Debug\SendTest.pdb
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe.config
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.exe
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.pdb
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe
+D:\My Wock Project\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.pdb
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe.config
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.exe
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.pdb
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.pdb
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe.config
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.exe
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.pdb
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.pdb
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe.config
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.exe
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.pdb
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\obj\Debug\SendTest.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.exe
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\SendTest\SendTest\bin\Debug\SendTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\MethodConvention\MethodConvention\bin\Debug\MethodConvention.exe.config
+C:\Users\David\Desktop\MethodConvention\MethodConvention\bin\Debug\MethodConvention.exe
+C:\Users\David\Desktop\MethodConvention\MethodConvention\bin\Debug\MethodConvention.pdb
+C:\Users\David\Desktop\MethodConvention\MethodConvention\obj\Debug\MethodConvention.exe
+C:\Users\David\Desktop\MethodConvention\MethodConvention\obj\Debug\MethodConvention.pdb
+C:\Users\David\Desktop\MethodConvention\MethodConvention\obj\Debug\MethodConvention.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的类型转换\通过Method进行类型转换\MethodConvention\MethodConvention\bin\Debug\MethodConvention.exe.config
+I:\NET\C#\C#的类型转换\通过Method进行类型转换\MethodConvention\MethodConvention\obj\Debug\MethodConvention.exe
+I:\NET\C#\C#的类型转换\通过Method进行类型转换\MethodConvention\MethodConvention\obj\Debug\MethodConvention.pdb

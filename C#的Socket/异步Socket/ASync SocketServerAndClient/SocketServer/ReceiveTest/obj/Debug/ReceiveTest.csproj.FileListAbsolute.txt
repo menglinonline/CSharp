@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe.config
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.pdb
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.exe
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.pdb
+C:\Users\Administrator\Desktop\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe.config
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.exe
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.pdb
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.pdb
+D:\My Wock Project\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe.config
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.exe
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.pdb
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.pdb
+C:\Users\David\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe.config
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.exe
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.pdb
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.pdb
+C:\Users\Administrator\Desktop\异步Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe.config
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.exe
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.pdb
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.exe
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\bin\Debug\ReceiveTest.pdb
+D:\My Wock Project\Demo\Socket\ASync SocketServerAndClient\ReceiveTest\ReceiveTest\obj\Debug\ReceiveTest.csprojResolveAssemblyReference.cache

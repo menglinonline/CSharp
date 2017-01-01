@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\HitDogShout\HitDogShout\bin\Debug\HitDogShout.exe.config
+C:\Users\David\Desktop\HitDogShout\HitDogShout\bin\Debug\HitDogShout.exe
+C:\Users\David\Desktop\HitDogShout\HitDogShout\bin\Debug\HitDogShout.pdb
+C:\Users\David\Desktop\HitDogShout\HitDogShout\obj\Debug\HitDogShout.exe
+C:\Users\David\Desktop\HitDogShout\HitDogShout\obj\Debug\HitDogShout.pdb

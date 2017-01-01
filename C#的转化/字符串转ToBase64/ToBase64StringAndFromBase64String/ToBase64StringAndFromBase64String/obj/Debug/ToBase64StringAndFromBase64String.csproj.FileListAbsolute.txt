@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\ToBase64StringAndFromBase64String.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\ToBase64StringAndFromBase64String.csproj.GenerateResource.Cache
+I:\NET\C#\C#的转化\字符串转ToBase64\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\bin\Debug\WindowsFormsApplication1.exe.config
+I:\NET\C#\C#的转化\字符串转ToBase64\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.exe
+I:\NET\C#\C#的转化\字符串转ToBase64\ToBase64StringAndFromBase64String\ToBase64StringAndFromBase64String\obj\Debug\WindowsFormsApplication1.pdb

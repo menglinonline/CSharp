@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\David\Desktop\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\David\Desktop\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\David\Desktop\Generic\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\David\Desktop\Generic\Generic\obj\Debug\Generic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe.config
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.pdb
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.exe
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.pdb

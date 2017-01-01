@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\David\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\David\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\David\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\David\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之封装\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之封装\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之封装\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

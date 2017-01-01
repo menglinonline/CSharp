@@ -1,0 +1,23 @@
+D:\软件开发项目\NetworkApp\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\NetworkApp\SocketServer\bin\Debug\SocketServer.exe
+D:\软件开发项目\NetworkApp\SocketServer\bin\Debug\SocketServer.pdb
+D:\软件开发项目\NetworkApp\SocketServer\obj\Debug\SocketServer.exe
+D:\软件开发项目\NetworkApp\SocketServer\obj\Debug\SocketServer.pdb
+E:\迅雷下载\SocketServerAndClient\SocketServer\obj\Debug\SocketServer.exe
+E:\迅雷下载\SocketServerAndClient\SocketServer\obj\Debug\SocketServer.pdb
+E:\迅雷下载\SocketServerAndClient\SocketServer\bin\Debug\SocketServer.exe
+E:\迅雷下载\SocketServerAndClient\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketServer\bin\Debug\SocketServer.pdb
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.exe
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.pdb
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketServer\bin\Debug\SocketServer.exe
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketServer\bin\Debug\SocketServer.pdb
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.exe
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.pdb
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketServer\bin\Debug\SocketServer.exe
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketServer\bin\Debug\SocketServer.pdb
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache

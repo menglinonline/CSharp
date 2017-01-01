@@ -1,0 +1,9 @@
+对象和Xml的互相转化
+
+对象和Json的互相转化
+
+对象和Dictionary的互相转化
+
+Dictionary和Json的互相转化
+
+Dictionary和Xml的互相转化

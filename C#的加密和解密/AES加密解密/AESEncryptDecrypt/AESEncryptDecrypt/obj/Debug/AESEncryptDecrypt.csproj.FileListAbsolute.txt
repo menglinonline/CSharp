@@ -1,0 +1,2 @@
+I:\NET\C#\C#的加密和解密\AESEncryptDecrypt\AESEncryptDecrypt\bin\Debug\AESEncryptDecrypt.exe.config
+I:\NET\C#\C#的加密和解密\AES加密解密\AESEncryptDecrypt\AESEncryptDecrypt\bin\Debug\AESEncryptDecrypt.exe.config

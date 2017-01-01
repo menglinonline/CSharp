@@ -1,0 +1,10 @@
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\bin\Debug\WindowsFormsApplication2.exe.config
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\WindowsFormsApplication2.exe
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\WindowsFormsApplication2.pdb
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\bin\Debug\WindowsFormsApplication2.exe
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\bin\Debug\WindowsFormsApplication2.pdb
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\ErrorHappenParentControl.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\NET\C#\C#的事件与委托\子窗体发生的错误反映到父窗体的控件上\ErrorHappenParentControl\ErrorHappenParentControl\obj\Debug\ErrorHappenParentControl.csproj.GenerateResource.Cache

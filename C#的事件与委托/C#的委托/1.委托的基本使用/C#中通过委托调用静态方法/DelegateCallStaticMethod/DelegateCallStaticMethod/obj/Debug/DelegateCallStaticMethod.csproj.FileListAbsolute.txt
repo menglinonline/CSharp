@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.exe.config
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.exe
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.pdb
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.exe
+C:\Users\David\Desktop\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.exe.config
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.exe
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.exe
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\bin\Debug\DelegateCallStaticMethod.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\1.委托的基本使用\C#中通过委托调用静态方法\DelegateCallStaticMethod\DelegateCallStaticMethod\obj\Debug\DelegateCallStaticMethod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+d:\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+H:\NET\C#\C#的具体功能\C#的集合处理\C#中单个集合去重复记录\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+H:\NET\C#\C#的具体功能\C#的集合处理\C#中单个集合去重复记录\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+H:\NET\C#\C#的具体功能\C#的集合处理\C#中单个集合去重复记录\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

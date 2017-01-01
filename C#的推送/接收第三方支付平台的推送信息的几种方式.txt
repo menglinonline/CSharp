@@ -1,0 +1,64 @@
+一：第一种方式
+          var qq = from f in Request.QueryString.AllKeys select f + "=" + Request.QueryString[f];
+          var ff = from f in Request.Form.AllKeys select f + "=" + Request.Form[f];
+          Common.OutPutLogs(Common.GetFileName(), DateTime.Now.ToString(), Common.GetMethod(), Common.GetLineNum(), "OrderPayAsycNotifyResult", "QueryString:" + string.Join("&", qq) + Environment.NewLine + "PostData:" + string.Join("&", ff), logDir);
+
+二：第二种方式（POST推送）
+
+        /// <summary>
+        /// 获取到POST过来通知消息，并以“参数名=参数值”的形式组成数组
+        /// </summary>
+        /// <returns>request回来的信息组成的数组</returns>
+        public Dictionary<string, string> GetAsycNotifyData()
+        {
+            Common.OutPutLogs(Common.GetFileName(), DateTime.Now.ToString(), Common.GetMethod(), Common.GetLineNum(), "OrderPayAsycNotifyResult", "Get Data Start", logDir);
+
+            int i = 0;
+            Dictionary<string, string> dic = new Dictionary<string, string>();
+            NameValueCollection coll;
+            //Load Form variables into NameValueCollection variable.
+            coll = Request.Form;
+            // Get names of all forms into a string array.
+            String[] requestItem = coll.AllKeys;
+            var logInfo = new StringBuilder();
+            for (i = 0; i < requestItem.Length; i++)
+            {
+                dic.Add(requestItem[i], Request.Form[requestItem[i]]);
+                logInfo.AppendLine("key:" + requestItem[i] + " vlaue:" + Request.Form[requestItem[i]]);
+            }
+            Common.OutPutLogs(Common.GetFileName(), DateTime.Now.ToString(), Common.GetMethod(), Common.GetLineNum(), "OrderPayAsycNotifyResult", logInfo.ToString(), logDir);
+            Common.OutPutLogs(Common.GetFileName(), DateTime.Now.ToString(), Common.GetMethod(), Common.GetLineNum(), "OrderPayAsycNotifyResult", "Get Data End", logDir);
+
+            return dic;
+        }
+
+三：第三种方式（GET推送）
+        /// <summary>
+        /// get pay platform return data
+        /// </summary>
+        /// <returns></returns>
+        private Dictionary<string, string> GetMouMouPayReturnDataToDictionary()
+        {
+            Dictionary<string, string> resData = new Dictionary<string, string>();
+            try
+            {
+                string[] requestItems = Request.QueryString.AllKeys;
+
+                if (requestItems.Length == 0 && Request.QueryString.AllKeys.Count() == 0)
+                    return null;
+
+                Dictionary<string, string> data = new Dictionary<string, string>();
+                string queryStr = "";
+                foreach (string item in requestItems)
+                {
+                    queryStr += item + "=" + Uri.EscapeDataString(Request.QueryString[item]) + "&";
+                    resData.Add(item, Request.QueryString[item]);
+                }
+            }
+            catch (Exception ex)
+            {
+                Common.OutPutLogs(Common.GetFileName(), DateTime.Now.ToString(), Common.GetMethod(), Common.GetLineNum(), "Exception", ex.ToString(), logDir);
+            }
+
+            return resData;
+        }

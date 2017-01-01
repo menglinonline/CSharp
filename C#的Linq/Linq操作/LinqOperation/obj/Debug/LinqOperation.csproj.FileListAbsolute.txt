@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\LinqOperation\LinqOperation\bin\Debug\LinqOperation.exe.config
+C:\Users\David\Desktop\LinqOperation\LinqOperation\bin\Debug\LinqOperation.exe
+C:\Users\David\Desktop\LinqOperation\LinqOperation\bin\Debug\LinqOperation.pdb
+C:\Users\David\Desktop\LinqOperation\LinqOperation\obj\Debug\LinqOperation.exe
+C:\Users\David\Desktop\LinqOperation\LinqOperation\obj\Debug\LinqOperation.pdb
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\bin\Debug\LinqOperation.exe.config
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\obj\Debug\LinqOperation.exe
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\obj\Debug\LinqOperation.pdb
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\bin\Debug\LinqOperation.exe
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\bin\Debug\LinqOperation.pdb
+I:\NET\C#\C#的Linq\Linq Operation\LinqOperation\LinqOperation\obj\Debug\LinqOperation.csprojResolveAssemblyReference.cache

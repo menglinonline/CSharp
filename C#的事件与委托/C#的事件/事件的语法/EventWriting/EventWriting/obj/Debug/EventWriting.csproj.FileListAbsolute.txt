@@ -1,0 +1,11 @@
+G:\APP Work Space\Code\EventWriting\EventWriting\bin\Debug\EventWriting.exe.config
+G:\APP Work Space\Code\EventWriting\EventWriting\bin\Debug\EventWriting.exe
+G:\APP Work Space\Code\EventWriting\EventWriting\bin\Debug\EventWriting.pdb
+G:\APP Work Space\Code\EventWriting\EventWriting\obj\Debug\EventWriting.csprojResolveAssemblyReference.cache
+G:\APP Work Space\Code\EventWriting\EventWriting\obj\Debug\EventWriting.exe
+G:\APP Work Space\Code\EventWriting\EventWriting\obj\Debug\EventWriting.pdb
+I:\NET\C#\C#的事件与委托\C#的事件\事件的语法\EventWriting\EventWriting\bin\Debug\EventWriting.exe.config
+I:\NET\C#\C#的事件与委托\C#的事件\事件的语法\EventWriting\EventWriting\obj\Debug\EventWriting.exe
+I:\NET\C#\C#的事件与委托\C#的事件\事件的语法\EventWriting\EventWriting\obj\Debug\EventWriting.pdb
+I:\NET\C#\C#的事件与委托\C#的事件\事件的语法\EventWriting\EventWriting\bin\Debug\EventWriting.exe
+I:\NET\C#\C#的事件与委托\C#的事件\事件的语法\EventWriting\EventWriting\bin\Debug\EventWriting.pdb

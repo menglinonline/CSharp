@@ -1,0 +1,40 @@
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+d:\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体的发生的错误反应到父窗体\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\documents\visual studio 2013\Projects\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上（事件与委托）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\NET\C#\C#的事件与委托\父窗体打开子窗体，子窗体发生的错误反应到父窗体的控件上(事件与委托)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

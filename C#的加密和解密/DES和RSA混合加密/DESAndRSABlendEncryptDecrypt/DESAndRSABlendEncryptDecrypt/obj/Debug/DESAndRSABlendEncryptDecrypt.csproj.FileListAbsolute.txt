@@ -1,0 +1,36 @@
+package com.smsidentifycoderegister.david.smsidentifycoderegister;
+import android.app.Activity;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+public class MainActivity extends Activity {
+private Button btnRegisterPhone;
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+super.onCreate(savedInstanceState);
+setContentView(R.layout.activity_main);
+this.btnRegisterPhone = (Button)findViewById( R.id.btnRegisterPhone);
+this.btnRegisterPhone.setOnClickListener(new View.OnClickListener(){
+public void onClick(View view){
+SMSSDK.initSDK(this, "您的appkey", "您的appsecret");
+}
+});
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.exe.config
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.exe
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.pdb
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.exe
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.pdb
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.Form1.resources
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.Properties.Resources.resources
+I:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.csproj.GenerateResource.Cache
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.exe.config
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.exe
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.pdb
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.exe
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\bin\Debug\DESAndRSABlendEncryptDecrypt.pdb
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.csprojResolveAssemblyReference.cache
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.Form1.resources
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.Properties.Resources.resources
+H:\NET\C#\C#的加密和解密\DES和RSA混合加密\DESAndRSABlendEncryptDecrypt\DESAndRSABlendEncryptDecrypt\obj\Debug\DESAndRSABlendEncryptDecrypt.csproj.GenerateResource.Cache

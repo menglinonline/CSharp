@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\LoopStatement\LoopStatement\bin\Debug\LoopStatement.exe.config
+C:\Users\David\Desktop\LoopStatement\LoopStatement\bin\Debug\LoopStatement.exe
+C:\Users\David\Desktop\LoopStatement\LoopStatement\bin\Debug\LoopStatement.pdb
+C:\Users\David\Desktop\LoopStatement\LoopStatement\obj\Debug\LoopStatement.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\LoopStatement\LoopStatement\obj\Debug\LoopStatement.exe
+C:\Users\David\Desktop\LoopStatement\LoopStatement\obj\Debug\LoopStatement.pdb

@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Polymorphic\Polymorphic\bin\Debug\Polymorphic.exe.config
+C:\Users\David\Desktop\Polymorphic\Polymorphic\bin\Debug\Polymorphic.exe
+C:\Users\David\Desktop\Polymorphic\Polymorphic\bin\Debug\Polymorphic.pdb
+C:\Users\David\Desktop\Polymorphic\Polymorphic\obj\Debug\Polymorphic.exe
+C:\Users\David\Desktop\Polymorphic\Polymorphic\obj\Debug\Polymorphic.pdb
+C:\Users\David\Desktop\Polymorphic\Polymorphic\obj\Debug\Polymorphic.csprojResolveAssemblyReference.cache
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\bin\Debug\Polymorphic.exe.config
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\obj\Debug\Polymorphic.exe
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\obj\Debug\Polymorphic.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\bin\Debug\Polymorphic.exe
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\bin\Debug\Polymorphic.pdb
+I:\NET\C#\C#的面向对象特征\C#的面向对象特性之多态\C#的静态多态\Polymorphic\Polymorphic\obj\Debug\Polymorphic.csprojResolveAssemblyReference.cache

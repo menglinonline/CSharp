@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.exe.config
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.exe
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.pdb
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.exe
+C:\Users\David\Desktop\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.pdb
+I:\NET\C#\C#的委托\Action的使用\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.exe.config
+I:\NET\C#\C#的委托\Action的使用\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.exe
+I:\NET\C#\C#的委托\Action的使用\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.exe.config
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.exe
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.exe
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\bin\Debug\Action_Delegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\2.Action的使用\Action_Delegate\Action_Delegate\obj\Debug\Action_Delegate.csprojResolveAssemblyReference.cache

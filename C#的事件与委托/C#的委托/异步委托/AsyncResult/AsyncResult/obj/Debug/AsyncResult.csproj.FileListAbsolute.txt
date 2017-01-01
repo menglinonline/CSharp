@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe.config
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\bin\Debug\AsyncResult.pdb
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.exe
+C:\Users\Administrator\Desktop\AsyncResult\AsyncResult\obj\Debug\AsyncResult.pdb
+H:\NET\C#\C#的委托\异步委托\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe.config
+H:\NET\C#\C#的委托\异步委托\AsyncResult\AsyncResult\obj\Debug\AsyncResult.exe
+H:\NET\C#\C#的委托\异步委托\AsyncResult\AsyncResult\obj\Debug\AsyncResult.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\异步委托\AsyncResult\AsyncResult\bin\Debug\AsyncResult.exe.config
+I:\NET\C#\C#的事件与委托\C#的委托\异步委托\AsyncResult\AsyncResult\obj\Debug\AsyncResult.exe
+I:\NET\C#\C#的事件与委托\C#的委托\异步委托\AsyncResult\AsyncResult\obj\Debug\AsyncResult.pdb

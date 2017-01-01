@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\bin\Debug\CustomizeEvent.exe.config
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\bin\Debug\CustomizeEvent.exe
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\bin\Debug\CustomizeEvent.pdb
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\obj\Debug\CustomizeEvent.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\obj\Debug\CustomizeEvent.exe
+C:\Users\David\Desktop\CustomizeEvent\CustomizeEvent\obj\Debug\CustomizeEvent.pdb
+I:\NET\C#\C#的事件与委托\C#的事件\自定义事件\数值改变事件\CustomizeEvent\CustomizeEvent\bin\Debug\CustomizeEvent.exe.config
+I:\NET\C#\C#的事件与委托\C#的事件\自定义事件\数值改变事件\CustomizeEvent\CustomizeEvent\obj\Debug\CustomizeEvent.exe
+I:\NET\C#\C#的事件与委托\C#的事件\自定义事件\数值改变事件\CustomizeEvent\CustomizeEvent\obj\Debug\CustomizeEvent.pdb

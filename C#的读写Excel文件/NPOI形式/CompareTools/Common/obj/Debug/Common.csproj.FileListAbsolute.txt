@@ -1,0 +1,6 @@
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\bin\Debug\CompareTools.Common.dll
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\bin\Debug\CompareTools.Common.pdb
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\bin\Debug\NPOI.dll
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\obj\Debug\CompareTools.Common.dll
+D:\CompanyWorkSpace\net\Compare\CompareTools\Common\obj\Debug\CompareTools.Common.pdb

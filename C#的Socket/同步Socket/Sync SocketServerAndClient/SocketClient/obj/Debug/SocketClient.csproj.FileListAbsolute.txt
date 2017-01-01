@@ -1,0 +1,25 @@
+D:\软件开发项目\NetworkApp\SocketClient\bin\Debug\SocketClient.exe
+D:\软件开发项目\NetworkApp\SocketClient\bin\Debug\SocketClient.pdb
+D:\软件开发项目\NetworkApp\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\NetworkApp\SocketClient\obj\Debug\SocketClient.exe
+D:\软件开发项目\NetworkApp\SocketClient\obj\Debug\SocketClient.pdb
+E:\迅雷下载\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.exe
+E:\迅雷下载\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\迅雷下载\SocketServerAndClient\SocketClient\bin\Debug\SocketClient.exe
+E:\迅雷下载\SocketServerAndClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\迅雷下载\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Administrator\Desktop\SocketServerAndClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.exe
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketClient\bin\Debug\SocketClient.exe
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\My Wock Project\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.exe
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketClient\bin\Debug\SocketClient.exe
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\My Wock Project\Demo\Socket\Sync SocketServerAndClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
