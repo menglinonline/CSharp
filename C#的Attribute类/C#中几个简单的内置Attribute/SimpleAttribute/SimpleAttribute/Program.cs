@@ -9,7 +9,7 @@ namespace SimpleAttribute
     {
         static void Main(string[] args)
         {
-            MyClass.Message("In main function 38");
+            MyClass.Message("In main function 58");
             //Function1();
 
             Console.ReadLine();
