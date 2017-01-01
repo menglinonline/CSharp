@@ -47,7 +47,7 @@ namespace CustomizeAttribute
                 HelperAttribute helperAtt = customerAttr as HelperAttribute;
                 if (helperAtt != null)
                 {
-                    Console.WriteLine("Name:{0} Description:{1}", helperAtt.Name, helperAtt.Description);
+                    Console.WriteLine("Name 111:{0} Description:{1}", helperAtt.Name, helperAtt.Description);
                 }
             }
 
