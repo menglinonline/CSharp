@@ -4,3 +4,9 @@ C:\Users\David\Desktop\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe
 C:\Users\David\Desktop\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.pdb
 C:\Users\David\Desktop\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.exe
 C:\Users\David\Desktop\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe.config
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.exe
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.pdb
+I:\NET\C#\C#的事件与委托\C#的委托\6.委托的调用列表\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.csprojResolveAssemblyReference.cache
