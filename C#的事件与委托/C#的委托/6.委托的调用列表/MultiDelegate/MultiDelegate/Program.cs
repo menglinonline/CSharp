@@ -40,7 +40,7 @@ namespace MultiDelegate
             cd3 -= cd2;
             cd3 -= cd4;
             cd3(50);
-            Console.WriteLine();
+            Console.WriteLine(); 
             cd3 -= cd1;
             cd3(60);
 
