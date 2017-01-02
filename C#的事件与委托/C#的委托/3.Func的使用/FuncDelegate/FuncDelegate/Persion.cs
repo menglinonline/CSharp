@@ -13,7 +13,21 @@ namespace FuncDelegate
 
         public Persion GetPersionInfo()
         {
-            try
+            //消除重复的try catch代码
+            //try
+            //{
+            //    Persion persion = new Persion();
+            //    persion.Name = "David";
+            //    persion.Age = 30;
+
+            //    return persion;
+            //}
+            //catch (Exception ex)
+            //{
+            //    return null;
+            //}
+
+            return Utillity.TryExecute<Persion>(() =>
             {
                 Persion persion = new Persion();
                 persion.Name = "David";
@@ -21,10 +35,7 @@ namespace FuncDelegate
 
                 return persion;
             }
-            catch (Exception ex)
-            {
-                return null;
-            }
+           , "GetPersionInfo");
         }
     }
 }

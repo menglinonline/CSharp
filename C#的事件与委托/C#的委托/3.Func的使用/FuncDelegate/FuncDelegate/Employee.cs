@@ -13,7 +13,21 @@ namespace FuncDelegate
 
         public Employee GetEmployeeInfo()
         {
-            try
+            //消除重复的try catch代码
+            //try
+            //{
+            //    Employee employee = new Employee();
+            //    employee.Post = "开发";
+            //    employee.Salary = 5000;
+
+            //    return employee;
+            //}
+            //catch (Exception ex)
+            //{
+            //    return null;
+            //}
+
+            return Utillity.TryExecute(() =>
             {
                 Employee employee = new Employee();
                 employee.Post = "开发";
@@ -21,10 +35,7 @@ namespace FuncDelegate
 
                 return employee;
             }
-            catch (Exception ex)
-            {
-                return null;
-            }
+            , "GetEmployeeInfo");
         }
     }
 }
